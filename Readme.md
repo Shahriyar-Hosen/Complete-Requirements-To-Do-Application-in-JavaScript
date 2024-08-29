@@ -70,8 +70,16 @@
      - Edit a to-do item in the list
      - Delete a to-do item from the list
    - Event listeners for:
+
      - Adding a new to-do item
      - Editing an existing to-do item
      - Deleting a to-do item
 
 This specification outlines the requirements to build a simple yet functional to-do application where users can add, update, and delete tasks.
+
+### Example
+
+- Simple: [**Link**](https://todo-app-js-html-tailwindcss.vercel.app)
+- Advanced Design: [**Link**](https://todo-app-js-html-tailwindcss.vercel.app)
+
+`Note:` Not something that has to be designed like the example. Here we will mainly look at the functionality and the design will be different for everyone, don't copy anyone's design
