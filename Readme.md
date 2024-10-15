@@ -79,7 +79,7 @@ This specification outlines the requirements to build a simple yet functional to
 
 ### Example
 
-- Simple: [**Link**](https://todo-app-js-html-tailwindcss.vercel.app)
+- Simple: [**Link**](https://simple-todo-app-hp.vercel.app)
 - Advanced Design: [**Link**](https://todo-app-js-html-tailwindcss.vercel.app)
 
 `Note:` Not something that has to be designed like the example. Here we will mainly look at the functionality and the design will be different for everyone, don't copy anyone's design
